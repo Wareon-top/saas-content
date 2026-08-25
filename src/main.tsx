@@ -4,6 +4,7 @@ import App from './App';
 import './styles.css';
 import './channels.css';
 import './publishing.css';
+import './monetization.css';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
